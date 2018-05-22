@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans&subset=latin,cyrillic');
+
+.logo{
+  width: 60%;
+  height: auto;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+  font-family: sans-serif;
+}
+li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+li a:hover{
+  background-color: #111;
+}
+
+#item_fulltext{
+
+}
+
+#contact{
+
+}
+
+#boxes{
+
+}
+
+#footer{
+
+}
+
+.slideshow {
+  float:left;
+  background:transparent;
+  margin: 0;
+  padding:0;
+  z-index:1;
+  overflow:visible;
+  position:relative;
+  width:100%;
+}
+
+.slidediv {
+  float:left;
+  background:none;
+  list-style-type:none;
+  z-index:2;
+  visibility:hidden;
+}
+
+.ssprev,.ssnext {
+  width:20px !important;
+  height:20px !important;
+  background:transparent;
+  border:none;
+  z-index:1024;
+}
+
+.ssprev img,.ssnext  img{
+  border: 0;
+}
+
+.ssbutton {
+  clear:both;
+  text-align:right;
+  height:20px;
+  margin-right:0;
+  padding-top:6px;
+  width:100%;
+  background:transparent;
+}
+
+.ssbutton a:focus {
+  background: none !important;
+}
+
+.slideshow li {
+  background: none;
+  list-style: none;
+}
+
+.slideshow img, .slideshow li {
+  background:none !important;
+}
+
+.bgs_bottom {
+  background:none;
+  height:57px;
+  width:100%
+}
+
+.bgs_bottom_left {
+  background:url(../img/shadow_left.png) 0 0 no-repeat;
+  width:50%;
+  float:left;
+  height:57px;
+}
+.bgs_bottom_right {
+  background:url(../img/shadow_right.png) top right no-repeat;
+  width:50%;
+  height:57px;
+  line-height:0%;
+  font-size:0%;
+  float:right;
+}

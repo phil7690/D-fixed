@@ -1,0 +1,797 @@
+
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr">
+<head>
+  
+	    
+   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>  
+    <base href="http://www.damselflysolutions.com/index.php" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Damselfly Solutions, Manufacturing Information Specialists, Custom applications, Traceability, Can-Trace compliant, Product Traceability, Software development, computer, software, Web, Windows applications, Web sites, ERP Planning, MES, .NET framework, ASP.NET Programming, Custom Software Development, Custom ERP Solutions, IT Solutions, Visual Basic Programming, SQL Server, Relational Database Design, Database, Cost Effective, IT Solutions, Information Technology, Enterprise Resource Planning, Manufacturing, Execution Systems, Experienced IT Professionals, Windows Web applications, SW, VB, ASP, IT, Kitchener, Waterloo, ERP, MES, Developers" />
+	<meta name="rights" content="Damselfly Solutions Inc., 2018" />
+	<meta name="author" content="Damselfly Solutions Inc." />
+	<meta name="robots" content="index, follow" />
+	<meta name="description" content="Damselfly Solutions Inc., We are Information specialists that provide Information Technology Solutions for your business challenges." />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Home</title>
+	<link href="/templates/as002035free/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/templates/as002035free/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/as002035free/css/tmpl.default.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/as002035free/css/media.1024.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/as002035free/css/media.980.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/as002035free/css/media.768.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/as002035free/css/media.480.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.damselflysolutions.com/modules/mod_bt_contentslider/tmpl/css/btcontentslider.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_ppc_simple_spotlight/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.damselflysolutions.com/modules/mod_as_menu/css/ext.default.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+#btcontentslider102 .bt_handles{top: 0px !important;right: 5px !important}
+		@media screen and (max-width: 480px){.bt-cs .bt-row{width:100%!important;}}#btcontentslider103 .bt_handles{top: 0px !important;right: 5px !important}
+		@media screen and (max-width: 480px){.bt-cs .bt-row{width:100%!important;}}
+	</style>
+	<script src="/media/jui/js/jquery.min.js?a89691b493f9b4faefdf5500e91a298b" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?a89691b493f9b4faefdf5500e91a298b" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?a89691b493f9b4faefdf5500e91a298b" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?a89691b493f9b4faefdf5500e91a298b" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.js" type="text/javascript"></script>
+	<script src="/templates/as002035free/js/jquery.isotope.min.js" type="text/javascript"></script>
+	<script src="/templates/as002035free/js/touch.gallery.js" type="text/javascript"></script>
+	<script src="/templates/as002035free/js/scripts.js" type="text/javascript"></script>
+	<script src="http://www.damselflysolutions.com/modules/mod_bt_contentslider/tmpl/js/slides.js" type="text/javascript"></script>
+	<script src="http://www.damselflysolutions.com/modules/mod_bt_contentslider/tmpl/js/default.js" type="text/javascript"></script>
+	<script src="http://www.damselflysolutions.com/modules/mod_bt_contentslider/tmpl/js/jquery.easing.1.3.js" type="text/javascript"></script>
+	<script src="/modules/mod_ppc_simple_spotlight/assets/js/jquery-1.8.2.min.js" type="text/javascript"></script>
+	<script src="/modules/mod_ppc_simple_spotlight/assets/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/modules/mod_ppc_simple_spotlight/assets/js/jquery.cycle.all.js" type="text/javascript"></script>
+	<script src="http://www.damselflysolutions.com/modules/mod_as_menu/js/script.js" type="text/javascript"></script>
+	<script src="http://www.damselflysolutions.com/modules/mod_as_menu/js/jquery.mobilemenu.js" type="text/javascript"></script>
+	<script src="http://www.damselflysolutions.com/modules/mod_as_menu/js/jquery.hovermenu.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery.noConflict()
+	</script>
+
+
+	
+<link href='https://fonts.googleapis.com/css?family=PT+Sans&subset=latin,cyrillic' rel='stylesheet' type='text/css'><style type="text/css">
+
+/***************************************************************************************/
+/*
+/*		Designed by 'AS Designing'
+/*		Web: http://www.asdesigning.com
+/*		Web: http://www.astemplates.com
+/*		License: GNU/GPL
+/*
+/**************************************************************************************/
+
+body
+{
+	font-family: Tahoma, Geneva, sans-serif, Arial;	font-size: 14px;	}
+
+a
+{
+	}
+
+a:hover,
+a.selected
+{
+	}
+
+
+/**************************************************************************************/
+/*   Forms																			  */
+
+
+input,
+button,
+select,
+textarea
+{
+	font-family: Tahoma, Geneva, sans-serif, Arial;}
+
+
+/**************************************************************************************/
+/*   Headings and Titles															  */
+
+
+h1,
+h2,
+h3,
+h4,
+h5
+{
+    font-family: Tahoma, Geneva, sans-serif, Arial;}
+
+h1
+{
+		}
+
+h2
+{
+		}
+
+h3
+{
+			
+}
+
+h4
+{
+			
+}
+
+h5
+{
+			
+}
+
+
+/**************************************************************************************/
+/*   Lists																			  */
+
+
+.categories-module li a,
+.archive-module li a
+{
+	}
+
+.categories-module li a:hover,
+.archive-module li a:hover
+{
+	}
+
+
+/**************************************************************************************/
+/*   Header Row		  																  */
+
+
+#header-row
+{
+	background-color: #;
+	background-image: -moz-linear-gradient(top, #, #);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#), to(#));
+	background-image: -webkit-linear-gradient(top, #, #);
+	background-image: -o-linear-gradient(top, #, #);
+	background-image: linear-gradient(to bottom, #, #);	
+}
+
+#header-row .moduletable.call-now
+{
+	}
+
+#header-row .moduletable.call-now div
+{
+    font-family: Tahoma, Geneva, sans-serif, Arial;}
+
+#header-row .logo
+{
+	float: left;
+	line-height: 60px;
+	min-width: 240px;
+}
+
+#header-row .logo,
+#header-row .logo a,
+#header-row .logo a:hover
+{
+	font-family: Tahoma, Geneva, sans-serif, Arial;		font-style: normal;	font-weight: normal;	}
+
+#header-row .logo span.slogan
+{
+	left: 5px;
+	top: 0px;
+	font-family: 'PT Sans', Arial, serif !important;	font-size: 12px;	font-style: normal;	font-weight: normal;		
+}
+
+
+/**************************************************************************************/
+/*   Footer
+/**************************************************************************************/
+/**************************************************************************************/
+
+
+#footer-row ul.nav li a
+{
+	}
+
+#footer-row ul.nav li a:hover
+{
+	}
+
+#copyright-menu li a,
+#copyright-menu li.current a,
+#copyright-menu li.active a
+{
+	}
+
+#copyright-menu li a:hover
+{
+	}
+
+
+</style>
+    <link rel="stylesheet" href="/templates/as002035free/css/ext.asmenu.css" type="text/css" />
+    <link rel="stylesheet" href="/templates/as002035free/css/ext.artslider.css" type="text/css" />
+    <link rel="stylesheet" href="/templates/as002035free/css/ext.phocagallery.css" type="text/css" />
+    <link rel="stylesheet" href="/templates/as002035free/css/style.custom.css" type="text/css" />
+    
+  
+</head>
+
+<body class="com_content view-article task- itemid-101 body__">
+<div class="wrapper">
+	<div class="wrapper-inner">
+		<!-- HEADER ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  -->    
+	    <div id="top_header">        
+            <div id="header-top-row">
+                <div class="container">
+                    <div id="top" class="row">
+                                            </div>
+                </div>
+            </div>
+        </div>
+            
+        <div id="header-row">
+        	<div class="wrapper">
+                <div class="container">
+                    <div class="row">
+                        <header>
+                            <div id="logo" class="span4">
+                                                                <a href="/">
+                                    <img src="http://www.damselflysolutions.com/images/dsiImages/DSI-Logo---with-text.png" alt="Damselfly Solutions Inc" />
+                                </a>
+                                                            
+                            </div>
+							                            <div class="moduletable navigation "><div class="moduletable-wrapper">
+
+<style type="text/css">
+
+#as-menu,
+#as-menu ul.as-menu li
+{
+	background-color: #;
+	border-radius: 5px;
+	
+	}
+
+#as-menu ul.as-menu > li > a,
+#as-menu ul.as-menu > li > span
+{
+	font-size: 20px;
+	line-height: 20px;	font-family: Arial, Helvetica, sans-serif;	color: #;
+}
+
+#as-menu ul.as-menu > li.active > a,
+#as-menu ul.as-menu > li.asHover > a,
+#as-menu ul.as-menu > li.current > a,
+#as-menu ul.as-menu > li.active > span,
+#as-menu ul.as-menu > li.asHover > span,
+#as-menu ul.as-menu > li.current > span,
+#as-menu ul.as-menu > li > a:hover,
+#as-menu ul.as-menu > li > span:hover,
+#as-menu ul.as-menu ul li a:hover,
+#as-menu ul.as-menu ul li span:hover,
+#as-menu ul.as-menu ul li.active > a,
+#as-menu ul.as-menu ul li.asHover > a,
+#as-menu ul.as-menu ul li.active > span,
+#as-menu ul.as-menu ul li.asHover > span
+{
+	color: #;
+}
+
+#as-menu ul.as-menu ul
+{
+	width: 191px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;	
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	border-bottom-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+#as-menu ul.as-menu ul li a,
+#as-menu ul.as-menu ul li span
+{
+	font-size: 20px;
+	line-height: 20px;	font-family: Arial, Helvetica, sans-serif;	color: #;
+}
+
+#as-menu ul.as-menu li li:hover ul,
+#as-menu ul.as-menu li li.asHover ul,
+#as-menu ul.as-menu li li li:hover ul,
+#as-menu ul.as-menu li li li.asHover ul
+{
+	left: 191px;
+}
+
+
+</style>
+<!--[if (gt IE 9)|!(IE)]><!-->
+<script type="text/javascript">
+    jQuery(function(){
+        jQuery('.as-menu').mobileMenu({});
+    })
+</script>
+<!--<![endif]-->
+
+
+<div id="as-menu" class="menu-wrapper">
+	
+    <ul class="as-menu "  >
+    
+    <li class="item-101 current active"><a  href="/index.php" >Home</a></li><li class="item-108"><a  href="/index.php/about" >About</a></li><li class="item-148"><a  href="/index.php/contact-us" >Contact Us</a></li>    </ul>
+</div>
+
+
+<script type="text/javascript">
+	jQuery(function(){
+		jQuery('ul.as-menu').asmenu({
+			hoverClass:    'asHover',         
+		    pathClass:     'overideThisToUse',
+		    pathLevels:    1,    
+		    delay:         500, 
+		    speed:         'normal',   
+		    autoArrows:    false, 
+		    dropShadows:   true, 
+		    disableHI:     false, 
+		    onInit:        function(){},
+		    onBeforeShow:  function(){},
+		    onShow:        function(){},
+		    onHide:        function(){}
+		});
+	});
+</script></div></div>
+														                        </header>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+		        
+                <div id="featured-row">
+            <div class="container">
+                <div class="row-fluid">
+                <div class="wrapper">
+                    <div class="moduletable  "><div class="moduletable-wrapper"><script type="text/javascript">
+jQuery(document).ready(function($) {
+    $('#sp100 ul').cycle({
+	fx:     'wipe',
+	timeout: 5000,
+    	speed:  800,
+	next:   '#next100', 
+    	prev:   '#prev100',
+	pause:  1,
+	width:  910,
+        height: 253,
+        fit: 1		
+	});		
+});
+
+</script>
+<div style="background:none;width:910px;margin:auto;" >  
+<div class="slideshow " id="sp100" >
+<ul style="background:none;margin:0px;padding:0px;">
+	<li style="background:none;margin:0px;padding:0px"><a href="/" target="_self"><img src="http://www.damselflysolutions.com/images/phocagallery/pexels-photo-273662.jpeg" width="910px" height="253px" border="0" alt="Smartphone on Desk" title="Smartphone on Desk" /></a></li><li style="background:none;margin:0px;padding:0px"><a href="/" target="_self"><img src="http://www.damselflysolutions.com/images/phocagallery/pexels-photo-700974.jpeg" width="910px" height="253px" border="0" alt="Cityscape" title="Cityscape" /></a></li><li style="background:none;margin:0px;padding:0px"><a href="/" target="_self"><img src="http://www.damselflysolutions.com/images/headers/images2.jpg" width="910px" height="253px" border="0" alt="TraceAll" title="TraceAll" /></a></li><li style="background:none;margin:0px;padding:0px"><a href="/" target="_self"><img src="http://www.damselflysolutions.com/images/phocagallery/38-down-town.jpg" width="910px" height="253px" border="0" alt="Tall Buildings" title="Tall Buildings" /></a></li>	</ul>
+	</div>
+	<div class="bgs_bottom" style="margin:0px auto"><div class="bgs_bottom_left"></div><div class="bgs_bottom_right"></div></div>
+	</div>
+
+<div style="clear: both;"></div> </div></div>
+                </div>
+                </div>
+            </div>
+        </div>
+                
+        
+		
+                
+        <!-- END OF HEADER ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->        
+    
+	    <!-- CONTENT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+        <div id="content-row">
+            <div class="container">
+            	
+							    <div class="container-border"></div>
+                                
+                <div class="content-inner row">
+                
+                    <!-- COLUMN LEFT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+                                        <!-- END OF COlUMN LEFT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+                            
+                    <!-- COLUMN MAIN ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->                
+                    <div id="component" class="span12">
+                
+                                                                    
+                        <div id="system-message-container">
+	</div>
+
+                        <div class="page-item page-item__">
+
+					
+
+		<div class="item_header">
+		<h2 class="item_title">
+										Home					</h2>
+	</div>
+	
+	    
+		
+		
+			
+	
+
+		
+	<div class="item_fulltext"><p>We are an experienced, innovative, efficient and cost effective team of software development professionals ready to meet your Information Technology needs.<br /><br />Our services and expertise include:<br /><br />Products and services supporting Food Safety and Quality Assurance <a href="/index.php/13-topslider/13-food-product-traceability">(FSQA,Traceability)</a><br /><br />Manufacturing Systems Integration and data collection <a href="/index.php/inductive-automation">(MES, ERP, OEE)</a><br /><br />Websites and Web Applications (Cloud based solutions and Content managed Websites)<br /><br />Our management and design team of IT professionals has over 97 years experience in analyzing, developing and implementing robust and reliable solutions that meet today's aggressive payback requirements, while leading business information needs into the future.</p>
+<p>Contact Us at:</p>
+<p>Contact Us at:</p>
+<p>Phone: 519-896-4007<br />Fax: 519-896-1787<br />Email: <a href="/index.php/contact-us">Info at Damselfly</a></p> </div>
+
+	
+						 </div>
+
+                    
+                                                
+                    </div>
+        			<!-- END OF COLUMN MAIN ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+    
+			        <!-- COLUMN RIGHT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->                    
+                                        <!-- END OF COLUMN RIGHT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+                </div>
+            </div>
+        </div>
+                
+                
+                
+                <div id="content-row-5">
+            <div class="container">
+                <div class="row-fluid">
+                    <div class="moduletable  "><div class="moduletable-wrapper"><div id="btcontentslider102" style="display:none;width:auto" class="bt-cs">
+			<div class="slides_container" style="width:auto;">
+
+			<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:25%" >
+				<div class="bt-inner">
+								
+										<a class="bt-title" target="_parent"
+						title="TraceAll"
+						href="/index.php/13-topslider/8-traceall"> TraceAll </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="TraceAll" href="/index.php/13-topslider/8-traceall">
+						<img class="hovereffect" src="http://www.damselflysolutions.com/cache/mod_bt_contentslider/418818d6ab2a6635cdd577fda24af034-Traceall-Logo-180X120.png" alt="TraceAll"  style="width:180px;" title="TraceAll" />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					 
+ 
+Food Safety and Quality Assurance software solution that:
+
+Provides traceability forwards an...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="TraceAll"
+							href="/index.php/13-topslider/8-traceall"> Read more						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+								
+										<a class="bt-title" target="_parent"
+						title="Services"
+						href="/index.php/13-topslider/11-services"> Services </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Services" href="/index.php/13-topslider/11-services">
+						<img class="hovereffect" src="http://www.damselflysolutions.com/cache/mod_bt_contentslider/b56d1c25df13f043e7b86d439096d53d-Services.png" alt="Services"  style="width:180px;" title="Services" />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					Damselfly Solutions Inc. is dedicated to providing quality, business solution based applications des...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="Services"
+							href="/index.php/13-topslider/11-services"> Read more						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+								
+										<a class="bt-title" target="_parent"
+						title="Our Customers"
+						href="/index.php/13-topslider/12-our-customers"> Our Customers </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Our Customers" href="/index.php/13-topslider/12-our-customers">
+						<img class="hovereffect" src="http://www.damselflysolutions.com/cache/mod_bt_contentslider/9c3f5535f9322ba7ac94650175dfffac-Chaps-Logo-180X120-White-.png" alt="Our Customers"  style="width:180px;" title="Our Customers" />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					Damselfly Solutions Inc. has provided customized solutions for both small and large organizations. O...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="Our Customers"
+							href="/index.php/13-topslider/12-our-customers"> Read more						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row bt-row-last"  style="width:25%" >
+				<div class="bt-inner">
+								
+										<a class="bt-title" target="_parent"
+						title="Inductive Automation"
+						href="/index.php/inductive-automation"> Inductive Automation </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Inductive Automation" href="/index.php/inductive-automation">
+						<img class="hovereffect" src="http://www.damselflysolutions.com/cache/mod_bt_contentslider/4e62fb4051e187692b09c4d7f5d136cd-Inductive-Logo-180X120.png" alt="Inductive Automation"  style="width:180px;" title="Inductive Automation" />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					
+ 
+Damselfly Solutions is a Certified Integrator of Ignition software by Inductive Automation. Ign...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="Inductive Automation"
+							href="/index.php/inductive-automation"> Read more						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+			</div>
+</div>
+<!--end bt-container -->
+<div style="clear: both;"></div>
+
+<script type="text/javascript">	
+	if(typeof(btcModuleIds)=='undefined'){var btcModuleIds = new Array();var btcModuleOpts = new Array();}
+	btcModuleIds.push(102);
+	btcModuleOpts.push({
+			slideEasing : 'easeInQuad',
+			fadeEasing : 'easeInQuad',
+			effect: 'slide,slide',
+			preloadImage: 'http://www.damselflysolutions.com//modules/mod_bt_contentslider/tmpl/images/loading.gif',
+			generatePagination: true,
+			play: 5000,						
+			hoverPause: true,	
+			slideSpeed : 500,
+			autoHeight:true,
+			fadeSpeed : 500,
+			equalHeight:true,
+			width: 'auto',
+			height: 'auto',
+			pause: 100,
+			preload: true,
+			paginationClass: 'bt_handles',
+			generateNextPrev:false,
+			prependPagination:true,
+			touchScreen:0	});
+</script>
+
+</div></div><div class="moduletable  "><div class="moduletable-wrapper"><div id="btcontentslider103" style="display:none;width:auto" class="bt-cs">
+			<div class="slides_container" style="width:auto;">
+
+			<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:25%" >
+				<div class="bt-inner">
+								
+										<a class="bt-title" target="_parent"
+						title="Who We Are"
+						href="/index.php/about"> Who We Are </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Who We Are" href="/index.php/about">
+						<img class="hovereffect" src="http://www.damselflysolutions.com/cache/mod_bt_contentslider/93934ded3cdd17628c48525943af998b-DSI-White-BG-180X120.png" alt="Who We Are"  style="width:180px;" title="Who We Are" />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					Damselfly Solutions
+ We are an Information Technology Solution company that brings innovation and e...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="Who We Are"
+							href="/index.php/about"> Read more						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+								
+										<a class="bt-title" target="_parent"
+						title="About Us"
+						href="/index.php/about-us"> About Us </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="About Us" href="/index.php/about-us">
+						<img class="hovereffect" src="http://www.damselflysolutions.com/cache/mod_bt_contentslider/759a4673eff428603c9ebac31b54dde7-DSI-Logo-with-text-180X120-.png" alt="About Us"  style="width:180px;" title="About Us" />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					 
+With over 100 years of combined experience, we have the knowledge and experience to deliver solut...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="About Us"
+							href="/index.php/about-us"> Read more						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row "  style="width:25%" >
+				<div class="bt-inner">
+								
+										<a class="bt-title" target="_parent"
+						title="Whats in a Name"
+						href="/index.php/14-bottomslider/10-whats-in-a-name"> Whats in a Name </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Whats in a Name" href="/index.php/14-bottomslider/10-whats-in-a-name">
+						<img class="hovereffect" src="http://www.damselflysolutions.com/cache/mod_bt_contentslider/d5ed0a08c0406bc51b526d7481b3ac0a-image_thumb_03.jpg" alt="Whats in a Name"  style="width:180px;" title="Whats in a Name" />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					 
+The answer: Lots!
+We have had many clients, colleges, competitors, friends and family ask us: "W...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="Whats in a Name"
+							href="/index.php/14-bottomslider/10-whats-in-a-name"> Read more						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div class="bt-row bt-row-last"  style="width:25%" >
+				<div class="bt-inner">
+								
+										<a class="bt-title" target="_parent"
+						title="Custom Applications"
+						href="/index.php/14-bottomslider/17-custom-applications"> Custom Applications </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Custom Applications" href="/index.php/14-bottomslider/17-custom-applications">
+						<img class="hovereffect" src="http://www.damselflysolutions.com/cache/mod_bt_contentslider/835f329b29bb22675a6a1df7066adb72-HMIPanel.png" alt="Custom Applications"  style="width:180px;" title="Custom Applications" />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					We can deliver custom SCADA applications that integrate into existing processes. Information is disp...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="Custom Applications"
+							href="/index.php/14-bottomslider/17-custom-applications"> Read more						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+			</div>
+</div>
+<!--end bt-container -->
+<div style="clear: both;"></div>
+
+<script type="text/javascript">	
+	if(typeof(btcModuleIds)=='undefined'){var btcModuleIds = new Array();var btcModuleOpts = new Array();}
+	btcModuleIds.push(103);
+	btcModuleOpts.push({
+			slideEasing : 'easeInQuad',
+			fadeEasing : 'easeInQuad',
+			effect: 'slide,slide',
+			preloadImage: 'http://www.damselflysolutions.com//modules/mod_bt_contentslider/tmpl/images/loading.gif',
+			generatePagination: true,
+			play: 5000,						
+			hoverPause: true,	
+			slideSpeed : 500,
+			autoHeight:true,
+			fadeSpeed : 500,
+			equalHeight:true,
+			width: 'auto',
+			height: 'auto',
+			pause: 100,
+			preload: true,
+			paginationClass: 'bt_handles',
+			generateNextPrev:false,
+			prependPagination:true,
+			touchScreen:0	});
+</script>
+
+</div></div>
+                </div>
+            </div>
+        </div>
+                
+        
+    </div>
+</div>
+
+    <!-- FOOTER ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+    <div id="footer">
+    	            
+        <div id="copyright-row">
+            <div class="container">
+                <div id="trademark">
+                    Copyright &copy; 2018 Damselfly Solutions Inc                </div>
+              <div id="copyright-menu" class="row">
+                  <!-- DO NOT REMOVE OR CHANGE THE CONTENT BELOW, THIS THEME MAY NOT WORK PROPERLY -->
+                  
+                      <div id="ascopy">
+                      <a href="http://www.astemplates.com/" target="_blank">
+                          &nbsp;&nbsp;&nbsp;&nbsp;DESIGNED BY:&nbsp;&nbsp;AS DESIGNING
+                      </a>
+                      </div>
+                  
+                  <!-- DO NOT REMOVE OR CHANGE THE CONTENT ABOVE, THIS THEME MAY NOT WORK PROPERLY -->
+              </div>  
+            </div>
+        </div>
+		
+    </div>
+	<!-- END OF FOOTER ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->    
+    
+        <div id="back-top">
+    	<a href="#"><span></span></a>
+    </div>
+        
+        
+            
+    
+</body>
+</html>
