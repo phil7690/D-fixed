@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans&subset=latin,cyrillic');
+*{
+  box-sizing: border-box;
+}
 body{
   font-family: sans-serif;
 }
@@ -33,6 +36,34 @@ li a:hover{
   background-color: #111;
 }
 
+.flex-cointainer{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.col-1{
+  wdith: 25%;
+}
+.col-2{
+  width: 50%;
+}
+.col-3{
+  width: 75%;
+}
+.col-4{
+  width :100%;
+}
+[class*="col-"]{
+  float: left;
+  padding: 15px;
+  border: 1px solid red;
+}
+.row::after{
+  content:"";
+  clear: both;
+  display: table;
+}
 #item_fulltext{
 
 }
@@ -43,11 +74,14 @@ li a:hover{
 
 #boxes{
   border: 30px solid rgba(255,120,0,1);
-  max-width: 200px;
-  min-width: 160px;
+  max-width:300px;
+  min-width: 200px;
   padding: 20px;
   background-color: white;
-  text-align:center;
+  text-align: center;
+
+}
+#image{
 
 }
 
@@ -64,9 +98,10 @@ a.more{
 
 #footer{
 
+
 }
 
-.slideshow {
+/*.slideshow {
   float:left;
   background:transparent;
   margin: 0;
@@ -140,3 +175,4 @@ a.more{
   font-size:0%;
   float:right;
 }
+*/
