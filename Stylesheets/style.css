@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans&subset=latin,cyrillic');
+body{
+  font-family: sans-serif;
+}
 
 .logo{
   width: 60%;
   height: auto;
 }
+
 ul{
   list-style-type: none;
   margin: 0;
@@ -11,10 +15,12 @@ ul{
   overflow: hidden;
   background-color: #333;
 }
+
 li {
   float: left;
   font-family: sans-serif;
 }
+
 li a{
   display: block;
   color: white;
@@ -36,7 +42,24 @@ li a:hover{
 }
 
 #boxes{
+  border: 30px solid rgba(255,120,0,1);
+  max-width: 200px;
+  min-width: 160px;
+  padding: 20px;
+  background-color: white;
+  text-align:center;
 
+}
+
+a.bt-title {
+  text-decoration: none;
+  color: rgba(255,120,0,1);
+
+}
+
+a.more{
+  text-decoration: none;
+  color: rgba(255,120,0,1)
 }
 
 #footer{
