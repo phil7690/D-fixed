@@ -4,6 +4,8 @@
 }
 body{
   font-family: sans-serif;
+
+  background-color: rgba(60,60,60,1);
 }
 
 .logo{
@@ -64,8 +66,14 @@ li a:hover{
   clear: both;
   display: table;
 }
+p{
+  color: white;
+}
 #item_fulltext{
 
+}
+p.text{
+  color: black;
 }
 
 #contact{
@@ -75,7 +83,7 @@ li a:hover{
 #boxes{
   border: 30px solid rgba(255,120,0,1);
   max-width:300px;
-  min-width: 200px;
+  min-width: 300px;
   padding: 20px;
   background-color: white;
   text-align: center;
