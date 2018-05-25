@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans&subset=latin,cyrillic');
+@media only screen and (max-width: 600px){
+  .col{
+    display: block;
+    width: 100%;
+  }
+}
 *{
   box-sizing: border-box;
 }
@@ -42,24 +48,34 @@ li a:hover{
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
+
 }
 
 .col-1{
-  wdith: 25%;
+  wdith: 20%;
 }
 .col-2{
-  width: 50%;
+  width: 40%;
 }
 .col-3{
-  width: 75%;
+  width: 60%;
 }
+
 .col-4{
-  width :100%;
+  width: 80%;
 }
+.col-5{
+  width: 100%;
+
+}
+
 [class*="col-"]{
   float: left;
-  padding: 15px;
-  border: 1px solid red;
+  display: block;
+
+  padding: 10px;
+
+
 }
 .row::after{
   content:"";
@@ -68,34 +84,58 @@ li a:hover{
 }
 p{
   color: white;
+  padding: 20px;
+
 }
-#item_fulltext{
+
+.main{
+  background-color: #333;
+}
+
+a.link{
+  text-decoration: none;
+  color: rgba(255,255,255,0.65);
 
 }
 p.text{
-  color: black;
+  color: white;
 }
 
-#contact{
+.contact{
+  border: 2px solid white;
+  padding: 30px;
+  max-width: 50%;
+  margin: auto;
+  background-color: #333;
 
+
+}
+
+.image{
+  max-width: 100%;
+  max-height: auto;
 }
 
 #boxes{
-  border: 30px solid rgba(255,120,0,1);
-  max-width:300px;
-  min-width: 300px;
-  padding: 20px;
-  background-color: white;
+  border: 20px solid rgba(255,255,255,0.4);
+  max-width:200px;
+  min-width: 100px;
+  height: auto;
+  padding: 8px;
+  background-color: rgba(255,255,255,0.2);
   text-align: center;
+  margin: auto;
 
 }
-#image{
+.slides{
+  max-width: 100%
 
 }
 
 a.bt-title {
   text-decoration: none;
   color: rgba(255,120,0,1);
+
 
 }
 
@@ -105,22 +145,28 @@ a.more{
 }
 
 #footer{
+  color: white;
+  background-color: #333;
+  border: 1px solid white;
+  padding: 15px;
+  text-align: center;
 
 
 }
 
-/*.slideshow {
-  float:left;
+.slideshow {
   background:transparent;
-  margin: 0;
+  margin: auto;
+  border: 5px solid black;
   padding:0;
   z-index:1;
-  overflow:visible;
-  position:relative;
-  width:100%;
+  overflow: visible;
+  position: relative;
+  max-width: 750px;
+  width:80%;
 }
 
-.slidediv {
+/*.slidediv {
   float:left;
   background:none;
   list-style-type:none;
